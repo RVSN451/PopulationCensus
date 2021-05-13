@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 
 public class Main {
-    static final int PEOPLE_AMOUNT = 10;
+    static final int PEOPLE_AMOUNT = 1000;
     static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
     public static int consoleReadInt() {
